@@ -4,7 +4,8 @@
 
 ## Before Starting
 
-- Note that there are two versions of Pokémon Green (JPN): 1.0 and 1.1. **Release 1.0** is the optimal version for this category. 
+- Note that there are two versions of Pokémon Green (JPN): 1.0 and 1.1.
+- **Release 1.0** is the optimal version for this category. 
 > If you are using release 1.1, please note that in order to activate the Select Glitch you must open your menu in route 1 navigate to items, slot 2 and press select on Oak's Parcel. After this you play normal, besides skipping this first step upon getting an encounter. Ignore this note if you are able to run on Release 1.0. 
 
 ## Before doing a new run
