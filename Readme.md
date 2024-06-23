@@ -61,13 +61,13 @@ Name both yourself and your rival the **first default name** by clearing the pre
 - In Pallet Town walk [past Oak and to the right wall](https://gunnermaniac.com/pokeworld?map=1#61/236/DDLDDRRRRRRRR), walk [to the left wall](https://gunnermaniac.com/pokeworld?map=1#68/240/LLLLLLLLLLLLLLLLL), and walk [towards the entrance to Rival's House](https://gunnermaniac.com/pokeworld?map=1#51/240/RRRRRRRRRRR).
 - Then based off of which tile you had your encounter on either enter Rival's House (1) [immediately](https://gunnermaniac.com/pokeworld?map=1#62/240/RU), (2) after walking [one tile to the right of the door](https://gunnermaniac.com/pokeworld?map=1#62/240/RRLU), or (3) after walking to the [rightmost tile of the house](https://gunnermaniac.com/pokeworld?map=1#62/240/RRRLLU). 
 
-  - 1st Yolo   : immediately
-  - 2nd Yolo   : rightmost tile of the house
-  - 3rd Yolo   : immediately
-  - 1st Normal : rightmost tile of the house
-  - 2nd normal : immediately
-  - 3rd normal : one tile to the right of the door
-  - 4th normal : one tile to the right of the door
+  - [1st Yolo](https://gunnermaniac.com/pokeworld?map=1#62/220/S)   : immediately
+  - [2nd Yolo](https://gunnermaniac.com/pokeworld?map=1#62/221/S)   : rightmost tile of the house
+  - [3rd Yolo](https://gunnermaniac.com/pokeworld?map=1#62/222/S)   : immediately
+  - [1st Normal](https://gunnermaniac.com/pokeworld?map=1#61/230/S) : rightmost tile of the house
+  - [2nd normal](https://gunnermaniac.com/pokeworld?map=1#61/231/S) : immediately
+  - [3rd normal](https://gunnermaniac.com/pokeworld?map=1#61/232/S) : one tile to the right of the door
+  - [4th normal](https://gunnermaniac.com/pokeworld?map=1#61/233/S) : one tile to the right of the door
 
 ## Hall of Fame Warps
 
