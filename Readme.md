@@ -73,7 +73,7 @@ Name both yourself and your rival the **first default name** by clearing the pre
 
 - Go right then down [into the top-right corner of the house](https://gunnermaniac.com/pokeworld?map=1#116/119/RRRD).
 - Exit the guard house by walking [right](https://gunnermaniac.com/pokeworld?map=186#1/3/RRURRRR).
-- Continue to the right following [this path](https://gunnermaniac.com/pokeworld?map=1#134/120/RRRDDDRRRRRRDDDRRRRRRRRRUUUURRRRRRRRU).
+- Continue to the right following [this path](https://gunnermaniac.com/pokeworld?map=1#134/120/RRRDDRRRRRRDDDDRRRRRRRRRUUUURRRRRRRRU).
   - Right, down then right bordering the grass, down and directly through the first double hedge, right to Celadon.
   - Upone entering Celadon walk Up right away, walk right when in line with the front of Celadon Mart, enter the Right door. 
 - Timing ends on the fadeout after the last text box is cleared. 
