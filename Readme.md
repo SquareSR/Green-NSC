@@ -75,16 +75,17 @@ Name both yourself and your rival the **first default name** by clearing the pre
 - Exit the guard house by walking [right](https://gunnermaniac.com/pokeworld?map=186#1/3/RRURRRR).
 - Continue to the right following [this path](https://gunnermaniac.com/pokeworld?map=1#134/120/RRRDDRRRRRRDDDDRRRRRRRRRUUUURRRRRRRRU).
   - Right, down then right bordering the grass, down and directly through the first double hedge, right to Celadon.
-  - Upone entering Celadon walk Up right away, walk right when in line with the front of Celadon Mart, enter the Right door. 
-- Timing ends on the fadeout after the last text box is cleared. 
+  - Upon entering Celadon walk up right away, walk right when in line with the front of Celadon Mart, enter the Right door. 
+- This warps you to a glitched-looking Hall of Fame Room and timing ends on the fadeout after the last text box is cleared. 
 
 ## Troubleshoot
 
 - After pressing A on Bulbasaur there should be some glitched characters on the screen.
-- If the game crashes or freezes when you run away from the battle, you must check that every step was followed. 
+- If the game crashes or freezes when you run away from the battle, you must check that every step was followed.
+- If you get a second encounter after activating the select glitch, then this is unlucky and th game will be soft-locked. In this case you must restart.
 - If the glitch was activated properly, then upon entering Pallet Town you will see Oak's sprite next to your house.
-- If you are warped to the wrong place after entering the Rival's house, then you may have taken too many or too few steps.
-- If you continue to have trouble, the best way to get help is to ask a question in the PSR Gen1-3 Discord Server [linked in this SRC Forum Post](https://www.speedrun.com/pkmnredblue/forums/se2sp). Posting a video of your failed attempt with an input viewer is the best way to get help and this category is typically discussed in the #gen1-Japanese channel. 
+- If you are warped to the wrong place after entering the Rival's house, then you may have taken too many or too few steps. 
+- If you continue to have trouble, the best way to get help is to ask a question in the PSR Gen1-3 Discord Server [linked in this SRC Forum Post](https://www.speedrun.com/pkmnredblue/forums/se2sp). Posting a video of your attempt with an input viewer is the best way to get help and this category is typically discussed in the #gen1-Japanese channel. 
 
 ## Notes
 
